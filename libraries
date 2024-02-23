@@ -1,0 +1,9 @@
+libraries_used = [
+    "numpy",
+    "pandas",
+    "tkinter",
+    "sklearn.feature_extraction.text",
+    "sklearn.metrics.pairwise",
+    "PIL.Image",
+    "PIL.ImageTk"
+]
